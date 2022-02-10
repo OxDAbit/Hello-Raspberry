@@ -15,7 +15,7 @@ The goal of this paper is:
 1. First of all, burn Raspbian Lite image in SD card.
     - I've used a **Raspberry Pi Imager** to burn the image. Simply select the operating system, SD card and write the image into the SD card.
 
-    ![Raspberry Pi Image](/image/raspberry_pi_imager.png
+    ![Raspberry Pi Image](/image/raspberry_pi_imager.png)
 
 2. Connect your raspberry Pi with the SD card inserted and boot it up, after that make sure the raspbian is fully updated runing:
     ```
