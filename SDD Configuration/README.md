@@ -15,7 +15,7 @@ The goal of this paper is:
 1. First of all, burn Raspbian Lite image in SD card.
     - I've used a **Raspberry Pi Imager** to burn the image. Simply select the operating system, SD card and write the image into the SD card.
 
-    ![Raspberry Pi Image](https://github.com/OxDAbit/raspberry-ssd_configuration/blob/main/image/raspberry_pi_imager.png?raw=true)
+    ![Raspberry Pi Image](/image/raspberry_pi_imager.png
 
 2. Connect your raspberry Pi with the SD card inserted and boot it up, after that make sure the raspbian is fully updated runing:
     ```
@@ -69,7 +69,7 @@ The goal of this paper is:
 9. Burn Raspbian Lite image in SSD.
     - Open a **Balena Etcher**, select image, SSD and burn the image.
 
-    ![balena Etcher](https://github.com/OxDAbit/raspberry-ssd_configuration/blob/main/image/etcher.png?raw=true)
+    ![balena Etcher](/image/etcher.png)
 
 10. Remove SD card and connect SSD to Raspberry Pi, after that boot it up!
 11. After that the Raspberry Pi is runing from SSD :smile: 
@@ -83,7 +83,7 @@ The goal of this paper is:
 1. Burn Raspbian Lite image in SSD.
     - Open a **Balena Etcher**, select image, SSD and burn the image.
 
-    ![balena Etcher](https://github.com/OxDAbit/raspberry-ssd_configuration/blob/main/image/etcher.png?raw=true)
+    ![balena Etcher](/image/etcher.png)
 
 2. Connect SSD to Raspberry Pi 4
 3. Turn ON Raspberry Pi 4
@@ -95,4 +95,4 @@ Contact
 =======
 - Twitter. [**@0xDA_bit**](https://twitter.com/0xDA_bit)
 - Github. [**OxDAbit**](https://github.com/OxDAbit)
-- Mail. **0xdabit@gmail.com**
+- Mail. **oxdabit@protonmail.com**
